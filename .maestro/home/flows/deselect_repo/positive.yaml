@@ -1,4 +1,0 @@
-appId: com.viscouspot.gitsync
----
-- tapOn: "deselect directory"
-- assertVisible: "NO COMMITS FOUND…"

@@ -1,8 +1,0 @@
-appId: com.viscouspot.gitsync
----
-- tapOn: AUTHOR NAME
-- tapOn:
-    below: AUTHOR NAME
-- eraseText
-- inputText: "ViscousTests"
-- hideKeyboard

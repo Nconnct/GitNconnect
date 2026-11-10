@@ -1,6 +1,0 @@
-appId: com.viscouspot.gitsync
----
-- runFlow: ../onboarding/positive.yaml
-- runFlow: ../home/flows/sync_messages/neutral.yaml
-- assertVisible: "GitSync"
-- takeScreenshot: generate_screenshots/raw/screenshot_homepage
